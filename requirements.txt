@@ -1,0 +1,7 @@
+python-dotenv==1.0.1
+aiogram==3.4.0
+pandas==2.2.1
+xlsxwriter==3.2.0
+openpyxl==3.1.2
+apscheduler==3.10.4
+loguru==0.7.2
